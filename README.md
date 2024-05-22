@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Mr-Gradus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Unreal Engine (C++ & Blueprints)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dmitriy, UE Developer 
+- 👀 I'm looking for a job in gamedev
 
 <!---
 Mr-Gradus/Mr-Gradus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
